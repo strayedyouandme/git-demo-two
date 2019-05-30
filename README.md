@@ -1,2 +1,2 @@
-# git-demo-two
-这是一次练习
+＃git-demo-two
+这是创建git hub 仓库的练习
